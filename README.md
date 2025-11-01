@@ -1,1 +1,1 @@
-# ingredients-german-snacks.github.io
+German Snacks - Ingredients

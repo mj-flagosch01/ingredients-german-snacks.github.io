@@ -12,11 +12,10 @@
 </head>
 <body>
   <header>
-    <h1>German Snacks - ingredients</h1>
+    <h1>German Snacks - Ingredients</h1>
     <p><a href="German Snacks.pdf" target="_blank" rel="noopener">PDF direkt herunterladen / öffnen</a></p>
   </header>
 
-  <!-- entweder iframe -->
   <iframe class="pdf-frame" src="German Snacks.pdf"></iframe>
 
   -->

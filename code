@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Mein PDF</title>
+  <style>
+    html,body{height:100%;margin:0}
+    .pdf-frame{width:100%;height:100vh;border:0}
+    header{padding:0.5rem 1rem;background:#f2f2f2}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Mein PDF-Dokument</h1>
+    <p><a href="dokument.pdf" target="_blank" rel="noopener">PDF direkt herunterladen / öffnen</a></p>
+  </header>
+
+  <!-- entweder iframe -->
+  <iframe class="pdf-frame" src="dokument.pdf"></iframe>
+
+  -->
+</body>
+</html>
